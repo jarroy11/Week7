@@ -1,0 +1,6 @@
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassScheduleTests\obj\Debug\net8.0\ClassScheduleTests.csproj.AssemblyReference.cache
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassScheduleTests\obj\Debug\net8.0\ClassScheduleTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassScheduleTests\obj\Debug\net8.0\ClassScheduleTests.AssemblyInfoInputs.cache
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassScheduleTests\obj\Debug\net8.0\ClassScheduleTests.AssemblyInfo.cs
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassScheduleTests\obj\Debug\net8.0\ClassScheduleTests.csproj.CoreCompileInputs.cache
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassScheduleTests\obj\Debug\net8.0\ClassScheduleTests.sourcelink.json

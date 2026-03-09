@@ -1,0 +1,11 @@
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\bin\Debug\net8.0\CoverletSourceRootsMapping_ClassSchedule
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\obj\Debug\net8.0\ClassSchedule.csproj.AssemblyReference.cache
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\obj\Debug\net8.0\ClassSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\obj\Debug\net8.0\ClassSchedule.AssemblyInfoInputs.cache
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\obj\Debug\net8.0\ClassSchedule.AssemblyInfo.cs
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\obj\Debug\net8.0\ClassSchedule.csproj.CoreCompileInputs.cache
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\obj\Debug\net8.0\ClassSchedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\obj\Debug\net8.0\ClassSchedule.RazorAssemblyInfo.cache
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\obj\Debug\net8.0\ClassSchedule.RazorAssemblyInfo.cs
+C:\Users\princ\Source\Repos\Week7\Ch14Ex1ClassSchedule\ClassSchedule\obj\Debug\net8.0\ClassSchedule.sourcelink.json
